@@ -2,16 +2,16 @@
 
 Instagram made using React framework and NodeJS
 
-* Back-End *
+** Back-End **
 
-install dependencies: yarn install
+*install dependencies: yarn install
 run cmd: yarn dev start
-port 3333
+port 3333*
 
-* Front-End Web*
+** Front-End Web **
 
-install dependencies: yarn install
+*install dependencies: yarn install
 run cmd: yarn start
-port: 3000
+port: 3000*
 
 
