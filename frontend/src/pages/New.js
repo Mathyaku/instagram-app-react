@@ -69,7 +69,7 @@ class New extends Component {
                 <input 
                     type="text" 
                     name="hashtags" 
-                    placeholder="Hahstags do post"
+                    placeholder="Hashtags do post"
                     onChange={this.handleChange}
                     value={this.state.hashtags}>
                 </input>
